@@ -7,7 +7,6 @@
 </p>
 
 ---
-![](https://github-readme-stats.vercel.app/api?username=Adarsh-0411&theme=tokyonight&hide_border=true)
 
 ## 🧠 About Me
 🎓 **Computer Science Undergraduate** specializing in **Data Science & Big Data Analytics** at **KL University (2022–2026)**  
